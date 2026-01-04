@@ -2,7 +2,7 @@
 Daily coding challenge
 
 ## My GitHub Profile Initialization
-Name     :  Satish Padanur
-Branch   :  MCA(Second Sem) 
+Name     :  Satish Padanur <br>
+Branch   :  MCA(Second Sem) <br>
 Roll No  :  25223085
 
